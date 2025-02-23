@@ -2,8 +2,10 @@
 Steganography Encryption and Decryption. This project created using python and tinker GUI
 
 # **Pre-requisites:**
-1. Open CV library
-2. Python  
+1. Python
+2. Open CV library
+
+To install python, visit https://www.python.org/downloads/
 
 To install CV library, run below code in command prompt
 ```java
@@ -13,9 +15,8 @@ or
 ```python
 pip3 install opencv-python
 ```
-CV reference - https://pypi.org/project/opencv-python/
+Reference - https://pypi.org/project/opencv-python/
 
-To install python, visit https://www.python.org/downloads/
 # Usage
 **Encryption**
 1. Run Stegno_Encrypt.py
@@ -29,9 +30,5 @@ To install python, visit https://www.python.org/downloads/
 3. Enter password to decrypt
 4. Click Decrypt
 
-# **Encrytption:**
-For only encryption try to run python code **Stegno_Encrypt.py**
-# **Decryption:**
-For only decryption try to run python code **Stegno_Decrypt.py**
 # **Encryption and Decrytion:**
 For accessing both codes in one interface try **Stegno_Combined.py**
