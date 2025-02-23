@@ -9,7 +9,7 @@ To install CV2 library, run below code in command prompt
 
 pip install opencv-python
 
-**reference** - https://pypi.org/project/opencv-python/
+**Reference** - https://pypi.org/project/opencv-python/
 
 To install python, visit https://www.python.org/downloads/
 
