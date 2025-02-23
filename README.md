@@ -5,11 +5,11 @@ Steganography Encryption and Decryption. This project created using python and t
 1. Open CV library
 2. Python  
 
-To install CV2 library, run below code in command prompt
-
+To install CV library, run below code in command prompt
+```python
 pip install opencv-python
-
-**Reference** - https://pypi.org/project/opencv-python/
+```
+CV reference - https://pypi.org/project/opencv-python/
 
 To install python, visit https://www.python.org/downloads/
 
