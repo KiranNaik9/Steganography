@@ -1,5 +1,5 @@
 # Steganography
-Steganography Encryption and Decryption. This project created using python and tinker GUI
+Steganography hides messages within images, making the message's existance itself concealed. It differs from encryption by focusing on invisibility, not scrambling the message content. This project created using Python and Tkinter GUI
 
 # **Pre-requisites:**
 1. Python
